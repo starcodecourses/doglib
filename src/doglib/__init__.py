@@ -1,0 +1,1 @@
+from .main import Dog, get_all_dogs, get_hungry_dogs

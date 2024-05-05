@@ -34,4 +34,4 @@ Doglib stellt eine Vielzahl von Funktionen zur Verfügung, die dazu dienen, die 
 Wir schätzen und begrüßen Beiträge, die dazu beitragen, doglib sowohl lehrreicher als auch benutzerfreundlicher zu gestalten. Ob es sich um Code-Verbesserungen, Dokumentationsaktualisierungen oder neue Feature-Vorschläge handelt, jede Form der Mitwirkung ist willkommen. Darüber hinaus ermutigen wir Python-Lehrer und -Tutoren, doglib in ihren Lernmaterialien zu verwenden, um die grundlegenden Konzepte von Python-Bibliotheken zu veranschaulichen.
 
 ## Lizenz
-Doglib steht unter der MIT-Lizenz. Weitere Informationen finden Sie in der Datei LICENSE.
+Doglib steht unter der MIT-Lizenz. Weitere Informationen finden Sie auf englischer Sprache in der Datei LICENSE.

@@ -1,5 +1,5 @@
 # DogLib
-[![PyPi version](https://badgen.net/pypi/v/doglib/?color=blue)](https://pypi.org/project/doglib/) &thinsp; [![Conda Version](https://img.shields.io/conda/vn/starcode/doglib?label=conda)](https://anaconda.org/starcode/doglib) &thinsp; [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) &thinsp; [![Documentation Status](https://readthedocs.org/projects/doglib/badge/?version=latest)](http://doglib.readthedocs.io/?badge=latest) 
+[![PyPi version](https://badgen.net/pypi/v/doglib/?color=blue)](https://pypi.org/project/doglib/) &thinsp; [![Conda Version](https://img.shields.io/conda/vn/starcode/doglib?label=conda)](https://anaconda.org/starcode/doglib) &thinsp; [![GitHub license](https://badgen.net/github/license/starcodecourses/doglib)](https://github.com/starcodecourses/doglib/blob/main/LICENSE.md) &thinsp; [![Documentation Status](https://readthedocs.org/projects/doglib/badge/?version=latest)](http://doglib.readthedocs.io/?badge=latest) 
 
 Doglib ist eine Python-Bibliothek, die speziell entwickelt wurde, um Studierenden die grundlegenden Arbeitsprinzipien von Python-Bibliotheken auf einfache und unterhaltsame Weise zu erklären.
 

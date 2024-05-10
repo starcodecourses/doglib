@@ -25,9 +25,13 @@ Installationsmethoden
         Sollte ein Fehler auftreten, dann frage gerne einen deine Lehrenden, oder schreibe uns eine E-Mail!
 
     .. group-tab:: Anaconda Paket (``conda``)  
-       DogLib ist auch im conda-Paketindex enthalten: https://anaconda.org/conda-forge/doglib
-        Du kannst daher DogLib mit dem ``conda``-Paketmanager installieren. Gebe dazu den foldenden Befehl in deinem Terminal biehungsweise in deiner Kommandozeile ein::::
+       DogLib ist auch im conda-Paketindex enthalten: https://anaconda.org/starcode/doglib
+        Du kannst daher DogLib mit dem ``conda``-Paketmanager installieren. Gebe dazu den foldenden Befehl in deinem Terminal biehungsweise in deiner Kommandozeile ein::
     
-            conda install -c conda-forge doglib 
+            conda install starcode::doglib 
         
-        Sollte ein Fehler auftreten, dann frage gerne einen deine Lehrenden, oder schreibe uns eine E-Mail!
+        Hier ist es zudem noch notwendig, das Paket `NumPy <https://numpy.org/>`_ zu installieren, da DogLib dieses benötigt::
+                
+            conda install numpy
+        
+        Nun solltest du DogLib nutzen können! Sollte ein Fehler auftreten, dann frage gerne einen deine Lehrenden, oder schreibe uns eine E-Mail!

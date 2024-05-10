@@ -53,6 +53,7 @@ Funktionen
 ----------
 
 .. function:: umrechnung_futtergewicht_in_tassen(futtergewicht)
+   :no-index:
 
    Rechnet das Futtergewicht in Tassen um.
 
@@ -77,7 +78,3 @@ Funktionen
 
    :returns: Eine Liste aller hungrigen Katzen-Objekte.
    :rtype: list
-
-.. function:: alle_hungrigen_katzen_listen()
-
-   Gibt die Namen aller hungrigen Katzen aus.

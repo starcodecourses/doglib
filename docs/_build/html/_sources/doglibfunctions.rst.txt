@@ -1,7 +1,7 @@
 .. _doglibfunctions:
 
-DogLib Funktionen und Klassen
-=============================
+Funktionen und Klassen
+======================
 
 Klassen
 -------
